@@ -1,0 +1,6 @@
+cookies.txt
+*.session
+*.session-journal
+cache/
+database/
+logs.txt
