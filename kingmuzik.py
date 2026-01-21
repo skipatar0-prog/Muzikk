@@ -80,8 +80,8 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 START_IMAGE_URL = "https://i.imgur.com/lOP9gt7.png"
 
 # Bot adı
-BOT_NAME = "King Muzik"  # Türkçe karakter sorununu önlemek için örneğin 'ü' yu 'u' yap
-OWNER_USERNAME = "KingOdi"  # Sahip kullanıcı adı
+BOT_NAME = "Kıyıcı Müzik"  # Türkçe karakter sorununu önlemek için örneğin 'ü' yu 'u' yap
+OWNER_USERNAME = "Kıyıcı Boss"  # Sahip kullanıcı adı
 
 # Dosya tabanlı veritabanı yolları
 DB_PATH = "database"
